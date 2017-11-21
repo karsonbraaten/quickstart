@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>69454444900-8f6pg3qg4ik8plgcpm4v29fj4e37uc06.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.69454444900-8f6pg3qg4ik8plgcpm4v29fj4e37uc06</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAG2bU5E66wJ6Vkn-PLEPcQLPWG-HailP8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>69454444900</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>starbarrel.greasing-the-groove</string>
+	<key>PROJECT_ID</key>
+	<string>greasing-the-groove</string>
+	<key>STORAGE_BUCKET</key>
+	<string>greasing-the-groove.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:69454444900:ios:db8c24917d2c8dc4</string>
+	<key>DATABASE_URL</key>
+	<string>https://greasing-the-groove.firebaseio.com</string>
+</dict>
+</plist>
